@@ -73,7 +73,7 @@ Copyright 2013 Mazdak Farrokhzad for the modified parts, original parts: [James 
 [Cyanide]: https://github.com/lefoy/cyanide-theme
 [Package Control]: http://wbond.net/sublime_packages/package_control/
 
-[screenshot: gruntfile.js]: https://github.com/Centril/sublime-twilight-colorscheme/blob/screenshots/gruntfile.js.png?raw=true "A gruntfile.js file."
+[screenshot: gruntfile.js]: https://github.com/Centril/sublime-twilightcyanide-colorscheme/blob/screenshots/gruntfile.js.png?raw=true "A gruntfile.js file."
 
 [twitter]: http://twitter.com/CenoRIX
 [github]: http://github.com/centril
