@@ -15,9 +15,9 @@
     //
 
     //
-    //  Twilightcyanide ColorScheme
-    //  Background   (rgb): 10,10,10
-    //  Background   (hex): 0a0a0a
+    //  Twilightcyanide ColorScheme - Constrasted Semi
+    //  Background   (rgb): 25,25,25
+    //  Background   (hex): 191919
     //
 -->
 <?xml version="1.0" encoding="UTF-8"?>
@@ -27,9 +27,9 @@
 	<key>author</key>
 	<string>github.com&#x2f;centril</string>
 	<key>name</key>
-	<string>Twilightcyanide ColorScheme</string>
+	<string>Twilightcyanide ColorScheme - Constrasted Semi</string>
 	<key>semanticClass</key>
-	<string>theme.dark.Twilightcyanide ColorScheme</string>
+	<string>theme.dark.Twilightcyanide ColorScheme - Constrasted Semi</string>
 	<key>uuid</key>
 	<string>38493303-bc02-4c5b-aa26-f0aae707e30d</string>
 	<key>colorSpaceName</key>
@@ -40,7 +40,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0a0a0a</string>
+				<string>#191919</string>
 				<key>caret</key>
 				<string>#F18260</string>
 				<key>foreground</key>
