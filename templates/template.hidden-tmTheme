@@ -30,7 +30,6 @@
 	<string>{{name}}</string>
 	<key>semanticClass</key>
 	<string>theme.dark.{{name}}</string>
-	<key>settings</key>
 	<key>uuid</key>
 	<string>38493303-bc02-4c5b-aa26-f0aae707e30d</string>
 	<key>colorSpaceName</key>
