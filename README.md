@@ -62,7 +62,7 @@ Copyright 2013 Mazdak Farrokhzad for the modified parts, original parts: [James 
 
 ## Credits
 
-+ [Predawn Twilight][predawn-twilight-theme] by [Jon Schlinkert]
++ [Predawn Twilight][predawn-twilight-theme] by [James Newell]
 + [Color Scheme Editor] by [Borislav Peev]
 + [Scope Hunter] by [facelessuser]
 
