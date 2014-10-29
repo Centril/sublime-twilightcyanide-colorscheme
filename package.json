@@ -1,7 +1,7 @@
 {
   "name": "sublime-twilightcyanide-colorscheme",
   "humanized": "Twilightcyanide ColorScheme",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "devDependencies": {
     "colors": "1.0.3",
     "lodash": "~2.4.1",
